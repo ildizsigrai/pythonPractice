@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fec90507-568b-476a-95f8-253808976a22" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/project2/project2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project2/story.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz_game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,21 +23,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ildizsigrai"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ildizsigrai&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ildizsigrai/pythonPractice.git",
-    "accountId": "8c553891-3664-44ad-9b96-1c608b1f9745"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ildizsigrai/pythonPractice.git&quot;,
+    &quot;accountId&quot;: &quot;8c553891-3664-44ad-9b96-1c608b1f9745&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2ilyDnSvdOTxvCVag2arD8gP3gR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -49,6 +48,8 @@
   "keyToString": {
     "Python.project1.executor": "Run",
     "Python.project2.executor": "Run",
+    "Python.project3.executor": "Run",
+    "Python.quiz_game.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
